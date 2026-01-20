@@ -38,17 +38,11 @@ Payment Method
 
 🔧 Technologies Used
 
-Python
+Python(Pandas,numpy)
 
-Pandas
+SQL
 
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Plotly
+PowerBI
 
 Jupyter Notebook
 
