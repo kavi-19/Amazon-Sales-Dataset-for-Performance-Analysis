@@ -55,7 +55,7 @@ Handled missing values
 
 Formatted dates and standardized columns
 
-✔️ Exploratory Data Analysis (EDA)
+✔️ SQL
 
 Sales trends by year, region, and product
 
