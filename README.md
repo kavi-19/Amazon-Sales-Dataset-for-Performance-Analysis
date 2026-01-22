@@ -1,4 +1,5 @@
 📊 Amazon Sales Performance Analysis
+
 📌 Project Overview
 
 This project focuses on analyzing Amazon’s sales transaction data to extract actionable insights related to product performance, regional sales trends, customer purchasing behavior, and revenue growth.
@@ -49,6 +50,7 @@ Power BI – Interactive dashboard and visualizations
 Jupyter Notebook – Analysis environment
 
 🔄 Project Workflow
+
 1️⃣ Data Cleaning & Preparation
 
 Removed duplicate records
